@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-   baseUrl: /my-upptime
+  baseUrl: /my-upptime
   logoUrl: https://www.ruoaa.com/wp-content/uploads/2022/06/cropped-ruoaa-logo.webp
   name: Ruoaa Uptime
   introTitle: "**ruoaa Magazine** status monitor"
