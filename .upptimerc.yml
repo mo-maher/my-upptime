@@ -10,8 +10,8 @@ sites:
     maxResponseTime: 2000
   - name: Google
     url: https://www.google.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  #- name: Test Broken Site
+  # url: https://thissitedoesnotexist.koj.co
 
 
 status-website:
