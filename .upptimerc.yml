@@ -20,13 +20,16 @@ status-website:
   baseUrl: /my-upptime
   logoUrl: https://www.ruoaa.com/wp-content/uploads/2022/06/cropped-ruoaa-logo.webp
   name: Ruoaa Uptime
-  introTitle: "**ruoaa Magazine** status monitor"
+  introTitle: "**ٌRuoaa Magazine** status monitor"
   introMessage: This is a status page which uses **real-time** data about our [Ruoaa Magazine](https:ruoaa.com).
   theme: ocean
+  i18n:
+    activeIncidents: الأحداث النشطة
+    allSystemsOperational: كل الأنظمة تعمل
   navbar:
     - title: Status
       href: /
-    - title: ruoaa MAgazine
+    - title: ruoaa Magazine
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
